@@ -40,6 +40,7 @@
 #' ))
 #'
 #' @export
+library(htmlwidgets)
 gauge <- function(value, min, max, hideMinMax, sectors = gaugeSectors(),
                   symbol = NULL, label = NULL,
                   abbreviate = TRUE, abbreviateDecimals = 1,
