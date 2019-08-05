@@ -19,7 +19,7 @@ gaugeSectors(success = NULL, warning = NULL, danger = NULL,
 
 \item{max}{Maximum numeric value}
 
-\item{hideMinMax}{hide in and max text labels}
+\item{hideMinMax}{hide min and max text labels}
 
 \item{sectors}{Custom colored sectors (e.g. "success", "warning", "danger"). By
 default all values are colored using the "success" theme color}
