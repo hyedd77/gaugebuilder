@@ -3,7 +3,7 @@ Type: Package
 Title: Implments a gauge visualization
 Version: 0.1.0
 Author: flexdashboard package with small modifications by Hyrum Eddington
-Maintainer: <hyrum.eddington@gmail.com>
+Maintainer: Hyrum Eddington <hyrum.eddington@gmail.com>
 Description: gauge visualization implementing justgage.css by MIT and flexdashbaord R wrapper
 License: MIT License
 Encoding: UTF-8
