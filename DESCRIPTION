@@ -4,7 +4,7 @@ Title: Implments a gauge visualization
 Version: 0.1.0
 Author: flexdashboard package with small modifications by Hyrum Eddington
 Maintainer: Hyrum Eddington <hyrum.eddington@gmail.com>
-Description: gauge visualization implementing justgage.css by MIT and flexdashbaord R wrapper
+Description: gauge visualization implementing justgage.css by MIT and flexdashboard R wrapper
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
