@@ -1,12 +1,11 @@
 Package: gaugebuilder
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Implments a gauge visualization
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
- Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: flexdashboard package with small modifications by Hyrum Eddington
+Maintainer: hyrum.eddington@gmail.com
+Description: gauge visualization implementing justgage.css by MIT and flexdashbaord R wrapper
+License: MIT License
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
