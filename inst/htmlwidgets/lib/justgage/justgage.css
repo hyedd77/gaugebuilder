@@ -1,11 +1,11 @@
 
 
 .html-widget.gauge {
-  height: 160px;
+  height: 100%;
 }
 
 .html-widget.gauge svg {
-  height: 160px;
+  height: 100%;
   margin-top: -10px;
   margin-bottom: -40px;
 }
